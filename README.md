@@ -19,9 +19,10 @@ Mi meta es crecer como desarrollador junior y aportar soluciones reales a proble
 
 | Proyecto | Descripción | Tech Stack |
 |---|---|---|
-| [**🗺️ UTN Pathfinder**](https://github.com/lenase0077/UTN-Pathfinder) | Plataforma interactiva para visualizar correlatividades y planificar la carrera universitaria. Desarrollado en Hackathon organizada por Colidevs x UTN FRGP. | `React` `Vite` `JS` |
-| [**🏝️ ISLANDEER**](https://github.com/lenase0077/Islandeer) | Videojuego 2D de supervivencia. Aplicación de POO avanzada: polimorfismo, `unique_ptr` y patrones de diseño de software. | `C++` `SFML` |
-
+| [**🗺️ UTN Pathfinder**](https://github.com/AlejoElPaisano/UTN-Pathfinder) | Plataforma interactiva para visualizar correlatividades y planificar la carrera universitaria. Desarrollado en Hackathon organizada por Colidevs x UTN FRGP. | `React` `Vite` `JS` |
+| [**🏝️ ISLANDEER**](https://github.com/AlejoElPaisano/Islandeer) | Videojuego 2D de supervivencia. Aplicación de POO avanzada: polimorfismo, `unique_ptr` y patrones de diseño de software. | `C++` `SFML` |
+| [**⚔️ Enfrentados**](https://github.com/AlejoElPaisano/Enfrentados) | Juego de dados por turnos en consola. Interfaz ASCII con colores, sistema de stock de dados, estadísticas de MVP y navegación con teclado. | `C++` `rlutil` |
+ 
 ---
 
 ### 🛠️ Tecnologías & Herramientas
