@@ -40,7 +40,7 @@ Mi meta es crecer como desarrollador junior y aportar soluciones reales a proble
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats-fawn-theta.vercel.app?user=AlejoElPaisano&theme=nightfox&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=AlejoElPaisano&theme=nightfox&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
