@@ -19,11 +19,11 @@
 
 **Lenguajes**
 
-[![Lenguajes](https://skillicons.dev/icons?i=cpp,cs,python,js,html,css&theme=dark)](https://skillicons.dev)
+[![Lenguajes](https://skillicons.dev/icons?i=cpp,cs,python,js,ts,html,css&theme=dark)](https://skillicons.dev)
 
 **Frameworks & Librerías**
 
-[![Frameworks](https://skillicons.dev/icons?i=react,dotnet,vite&theme=dark)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=react,nextjs,dotnet,vite&theme=dark)](https://skillicons.dev)
 
 **Herramientas & Entornos**
 
@@ -37,6 +37,7 @@
 
 | Proyecto | Descripción | Tech Stack |
 |---|---|---|
+| [**🌤️ Climix**](https://github.com/AlejoElPaisano/WeatherAppPro) | App del clima mobile-first con búsqueda inteligente de ciudades, fondos dinámicos por condición meteorológica, pronóstico por horas con gráfico animado y favoritos persistidos. | `Next.js` `React` `TypeScript` `Tailwind` |
 | [**🗺️ UTN Pathfinder**](https://github.com/AlejoElPaisano/UTN-Pathfinder) | Plataforma interactiva para visualizar correlatividades y planificar la carrera universitaria. Desarrollado en Hackathon organizada por Colidevs x UTN FRGP. | `React` `Vite` `JS` |
 | [**🏝️ ISLANDEER**](https://github.com/AlejoElPaisano/Islandeer) | Videojuego 2D de supervivencia. Aplicación de POO avanzada: polimorfismo, `unique_ptr` y patrones de diseño de software. | `C++` `SFML` |
 | [**⚔️ Enfrentados**](https://github.com/AlejoElPaisano/Enfrendados) | Juego de dados por turnos en consola. Interfaz ASCII con colores, sistema de stock de dados, estadísticas de MVP y navegación con teclado. | `C++` `rlutil` |
